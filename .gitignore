@@ -19,4 +19,5 @@ start_container.bat
 
 dist/
 draftfast.egg-info/
-
+env/
+venv/
